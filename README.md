@@ -2,6 +2,7 @@
 
 ***
 This is a simple calculator.
+一个简单的有两种模式的计算器（一般计算器和简单科学计算器）。
 
 ***
 Eclipse Java Oxygen ;
